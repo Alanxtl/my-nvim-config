@@ -4,4 +4,4 @@ thorough setup
 
 # 💤 LazyVim
 
-My template for [LazyVim](https://github.com/LazyVim/LazyVim).
+My template based on [LazyVim](https://github.com/LazyVim/LazyVim).
