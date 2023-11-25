@@ -3,7 +3,7 @@ tab indents 4
 thorough setup
 
 # How to use
-Clone and unzip it to $User$\AppData\Local\nvim
+Clone and unzip it to ~\AppData\Local\nvim
 
 # 💤 LazyVim
 
